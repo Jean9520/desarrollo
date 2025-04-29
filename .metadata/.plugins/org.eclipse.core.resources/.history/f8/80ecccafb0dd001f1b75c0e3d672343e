@@ -1,0 +1,19 @@
+
+public class PrimeraClase {
+
+	public static void main(String args[]) {
+		
+		var a =45D;
+		var b;
+		b=56D;
+		var c=a/bD;
+		//c-=7;
+		
+		
+		
+		System.out.println("usted tiene " + c + " años");
+		
+	}
+}
+
+

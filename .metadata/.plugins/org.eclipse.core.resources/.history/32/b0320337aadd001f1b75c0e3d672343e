@@ -1,0 +1,15 @@
+
+public class PrimeraClase {
+
+	public static void main(String args[]) {
+		
+		short edad;
+		
+		edad = 45;
+		
+		System.out.println("usted tiene " + edad + " años");
+		
+	}
+}
+
+

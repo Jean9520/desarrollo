@@ -1,0 +1,15 @@
+
+public class PrimeraClase {
+
+	public static void main(String args[]) {
+		
+		double base= 5;
+		double exponente = 2;
+		
+		int resultado =(int) Math.pow(base, exponente);
+		System.out.println(resultado);
+		
+	}
+}
+
+

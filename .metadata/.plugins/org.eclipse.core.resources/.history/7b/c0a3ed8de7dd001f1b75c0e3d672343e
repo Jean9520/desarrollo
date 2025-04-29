@@ -1,0 +1,14 @@
+
+public class PrimeraClase {
+
+	public static void main(String args[]) {
+		
+		String alumno1, alumno2;
+		
+		alumno1= "Davis";
+		alumno2="davis";
+		
+		System.out.println(alumno1.equalsIgnoreCase(alumno2));
+}
+
+}

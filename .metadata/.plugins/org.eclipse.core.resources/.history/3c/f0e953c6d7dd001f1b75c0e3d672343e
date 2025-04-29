@@ -1,0 +1,12 @@
+
+public class PrimeraClase {
+
+	public static void main(String args[]) {
+		
+		String frase = "hoy es un dia para aprender a prgramas";
+		String frase_resumen = frase.substring(23, 29);
+		System.out.println(frase_resumen);
+	}
+}
+
+

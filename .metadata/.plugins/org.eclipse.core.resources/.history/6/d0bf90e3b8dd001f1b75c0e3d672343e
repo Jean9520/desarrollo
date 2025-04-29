@@ -1,0 +1,11 @@
+
+public class PrimeraClase {
+
+	public static void main(String args[]) {
+		var raiz= Math.sqrt(9);
+		System.out.println(raiz);
+		
+	}
+}
+
+

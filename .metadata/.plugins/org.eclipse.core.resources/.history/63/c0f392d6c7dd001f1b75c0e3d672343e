@@ -1,0 +1,18 @@
+
+public class PrimeraClase {
+
+	public static void main(String args[]) {
+		
+		String nombre = "jean poll";
+		
+		System.out.println("mi nombre  es:" + nombre);
+		System.out.println("mi nombre tiene :" + nombre.length() + " letras");
+		System.out.println("la primera letra es: " + nombre.charAt(0));
+		
+		int ultima_letra;
+		ultima_letra = nombre.length();
+		System.out.println("y la ultima letra: " + nombre.charAt(ultima_letra-1));
+	}
+}
+
+
