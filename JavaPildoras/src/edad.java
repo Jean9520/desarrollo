@@ -12,7 +12,7 @@ public class edad {
 		
 		if (edad >= 18) {
 			
-			System.out.println("eres mayor de edad");
+			System.out.println("eres mayor de edad y puedes salir a la calle");
 			
 		}
 		else {
